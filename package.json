@@ -1,0 +1,12 @@
+{
+  "name": "artes-graficas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CarlosNeto2804/ArtesGraficas.git",
+  "author": "Carlos Alberto Neto <carloshtcursos@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
