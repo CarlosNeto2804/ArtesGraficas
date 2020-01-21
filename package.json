@@ -6,6 +6,9 @@
   "author": "Carlos Alberto Neto <carloshtcursos@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
